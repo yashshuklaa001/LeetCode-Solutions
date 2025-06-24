@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 ## String
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 ## Array
 |  |
 | ------- |
@@ -31,4 +33,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+## Stack
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
