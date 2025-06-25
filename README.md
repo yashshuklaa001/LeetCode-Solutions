@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
+| [3548-find-the-count-of-good-integers](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Sorting
 |  |
 | ------- |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [1013-fibonacci-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [3548-find-the-count-of-good-integers](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -124,4 +126,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Combinatorics
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
+## Enumeration
+|  |
+| ------- |
+| [3548-find-the-count-of-good-integers](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->
