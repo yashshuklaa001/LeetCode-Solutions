@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -113,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
