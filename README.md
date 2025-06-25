@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0189-rotate-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0416-partition-equal-subset-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0069-sqrtx](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [3548-find-the-count-of-good-integers](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
