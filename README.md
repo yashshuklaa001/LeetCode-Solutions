@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0344-reverse-string) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 ## Sorting
 |  |
@@ -118,4 +120,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
