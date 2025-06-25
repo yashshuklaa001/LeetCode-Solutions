@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 ## Hash Table
 |  |
@@ -79,8 +80,13 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1185-find-in-mountain-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+## Interactive
+|  |
+| ------- |
+| [1185-find-in-mountain-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 <!---LeetCode Topics End-->
