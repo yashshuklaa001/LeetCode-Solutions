@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0035-search-insert-position](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Stack
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0046-permutations](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 ## Prefix Sum
 |  |
 | ------- |
