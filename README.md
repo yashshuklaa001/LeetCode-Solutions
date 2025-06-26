@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 ## Simulation
 |  |
@@ -160,10 +161,12 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
 |  |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
 |  |
