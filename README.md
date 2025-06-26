@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0409-longest-palindrome](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0525-contiguous-array) |
+| [0560-subarray-sum-equals-k](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1603-running-sum-of-1d-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Union Find
