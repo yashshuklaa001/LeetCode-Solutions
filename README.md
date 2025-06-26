@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0283-move-zeroes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0525-contiguous-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0525-contiguous-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [3548-find-the-count-of-good-integers](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Union Find
 |  |
