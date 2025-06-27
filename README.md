@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0416-partition-equal-subset-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1690-maximum-length-of-subarray-with-positive-product](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 ## Monotonic Stack
 |  |
 | ------- |
