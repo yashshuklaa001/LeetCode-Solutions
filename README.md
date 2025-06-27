@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0907-koko-eating-bananas](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0951-partition-array-into-disjoint-intervals](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0951-partition-array-into-disjoint-intervals) |
+| [0954-maximum-sum-circular-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1185-find-in-mountain-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1185-find-in-mountain-array) |
 | [1319-unique-number-of-occurrences](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0070-climbing-stairs](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0416-partition-equal-subset-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0416-partition-equal-subset-sum) |
+| [0954-maximum-sum-circular-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1013-fibonacci-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Monotonic Stack
 |  |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0004-median-of-two-sorted-arrays](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0954-maximum-sum-circular-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Interactive
 |  |
 | ------- |
@@ -290,4 +293,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
