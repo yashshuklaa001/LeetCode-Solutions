@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0162-find-peak-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0069-sqrtx](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0525-contiguous-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0525-contiguous-array) |
