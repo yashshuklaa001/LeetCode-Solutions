@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1435-xor-queries-of-a-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 | [1603-running-sum-of-1d-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1635-number-of-good-pairs](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1677-matrix-diagonal-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -369,4 +370,5 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [1677-matrix-diagonal-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
