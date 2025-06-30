@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0898-transpose-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [0948-sort-an-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [0898-transpose-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 ## Greedy
 |  |
 | ------- |
@@ -370,5 +372,6 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
