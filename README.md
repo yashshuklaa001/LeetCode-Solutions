@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0838-design-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0838-design-linked-list) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -374,4 +375,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0240-search-a-2d-matrix-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0898-transpose-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1677-matrix-diagonal-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
+## Linked List
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
