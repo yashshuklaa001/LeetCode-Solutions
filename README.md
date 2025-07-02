@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0838-design-linked-list) |
 ## Bit Manipulation
 |  |
@@ -407,6 +410,11 @@ A collection of LeetCode questions to ace the coding interview!
 | [0092-reverse-linked-list-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
