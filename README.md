@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0098-validate-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0098-validate-binary-search-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Breadth-First Search
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
