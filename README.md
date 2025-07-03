@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0303-range-sum-query-immutable](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0838-design-linked-list) |
+| [1337-design-skiplist](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1337-design-skiplist) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1337-design-skiplist](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1337-design-skiplist) |
 ## Hash Function
 |  |
 | ------- |
