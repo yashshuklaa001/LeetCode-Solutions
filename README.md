@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0146-lru-cache](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0202-happy-number) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
@@ -423,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0025-reverse-nodes-in-k-group](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0092-reverse-linked-list-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
@@ -440,4 +443,8 @@ A collection of LeetCode questions to ace the coding interview!
 | [0450-delete-node-in-a-bst](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
