@@ -10,27 +10,40 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        Stack<Integer> stack1 = new Stack<>();
-        Stack<Integer> stack2 = new Stack<>();
-        while(l1!=null){
-            stack1.push(l1.val);
-            l1=l1.next;
-        }
-        while(l2!=null){
-            stack2.push(l2.val);
-            l2=l2.next;
-        }
+        l1=reverse(l1);
+        l2=reverse(l2);
         int carry=0;
         ListNode head=null;
-        while(!stack1.isEmpty()||!stack2.isEmpty()||carry!=0){
-            int val1 = !stack1.isEmpty()?stack1.pop():0;
-            int val2 = !stack2.isEmpty()?stack2.pop():0;
-            int sum = val1+val2+carry;
-            carry=sum/10;
-            ListNode newNode = new ListNode(sum%10);
-            newNode.next=head;
-            head=newNode;
+        ListNode temp=null;
+        while(l1!=null || l2!=null || carry>0){
+            int val1=(l1!=null ? l1.val : 0);
+            int val2=(l2!=null ? l2.val : 0);
+            int val=val1+val2+carry;
+            carry=val/10;
+            val=val%10;
+            ListNode curr=new ListNode(val);
+            if(head==null){
+                head=curr;
+                temp=curr;
+            }
+            else{
+                temp.next=curr;
+                temp=temp.next;
+            }
+            if(l1!=null)l1=l1.next;
+            if(l2!=null)l2=l2.next;
         }
-        return head;
+        return reverse(head);
+    }
+    public ListNode reverse(ListNode l){
+        ListNode prev=null;
+        ListNode curr=l;
+        while(curr!=null){
+            ListNode nex=curr.next;
+            curr.next=prev;
+            prev=curr;
+            curr=nex;
+        }
+        return prev;
     }
 }
