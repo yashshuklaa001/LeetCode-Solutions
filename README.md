@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0713-subarray-product-less-than-k](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0816-design-hashset](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0898-transpose-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0525-contiguous-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0816-design-hashset](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0146-lru-cache](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
+| [0816-design-hashset](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0838-design-linked-list) |
 | [1337-design-skiplist](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1337-design-skiplist) |
@@ -464,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0328-odd-even-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0816-design-hashset](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
@@ -473,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Hash Function
 |  |
 | ------- |
+| [0816-design-hashset](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 ## Binary Search Tree
 |  |
