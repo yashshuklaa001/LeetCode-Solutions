@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0094-binary-tree-inorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0303-range-sum-query-immutable](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0816-design-hashset](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0816-design-hashset) |
