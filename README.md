@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
+| [0860-design-circular-queue](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0898-transpose-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0907-koko-eating-bananas) |
 | [0940-fruit-into-baskets](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0940-fruit-into-baskets) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0816-design-hashset](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [1337-design-skiplist](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1337-design-skiplist) |
 ## Bit Manipulation
 |  |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Queue
 |  |
 | ------- |
+| [0860-design-circular-queue](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0954-maximum-sum-circular-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Monotonic Queue
 |  |
@@ -499,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0816-design-hashset](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0838-design-linked-list) |
+| [0860-design-circular-queue](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [0908-middle-of-the-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1337-design-skiplist](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1337-design-skiplist) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
