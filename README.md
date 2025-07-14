@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0724-find-pivot-index](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0817-design-hashmap) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0735-asteroid-collision](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1666-make-the-string-great](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 ## Simulation
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 ## Binary Search
 |  |
 | ------- |
