@@ -351,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -543,6 +545,11 @@ A collection of LeetCode questions to ace the coding interview!
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
