@@ -297,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0445-add-two-numbers-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0203-remove-linked-list-elements](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0224-basic-calculator) |
+| [0231-power-of-two](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -454,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 ## Queue
 |  |
