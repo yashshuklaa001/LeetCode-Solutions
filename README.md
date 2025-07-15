@@ -276,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0148-sort-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
 ## Queue
