@@ -15,33 +15,31 @@
  */
 class Solution {
     public TreeNode deleteNode(TreeNode root, int key) {
-        if (root == null) return null;
-
-        if (key < root.val) {
-            root.left = deleteNode(root.left, key);
-        } else if (key > root.val) {
-            root.right = deleteNode(root.right, key);
-        } else {
-            // Node found
-            if (root.left == null && root.right == null) {
-                return null;  // case 1: no child
-            } else if (root.left == null) {
-                return root.right;  // case 2: only right child
-            } else if (root.right == null) {
-                return root.left;   // case 2: only left child
-            } else {
-                // case 3: two children
-                TreeNode minNode = findMin(root.right);
-                root.val = minNode.val;
-                root.right = deleteNode(root.right, minNode.val);
+        if(root==null){
+            return null;
+        }
+        if(key<root.val){
+            root.left = deleteNode(root.left,key);
+        }else if(key>root.val){
+            root.right = deleteNode(root.right,key);
+        }else{
+            if(root.left==null && root.right==null){
+                return null;
+            }else if(root.left==null){
+                return root.right;
+            }else if(root.right==null){
+                return root.left;
+            }else{
+                TreeNode min = findMin(root.right);
+                root.val=min.val;
+                root.right=deleteNode(root.right,min.val);
             }
         }
         return root;
     }
-
-    private TreeNode findMin(TreeNode node) {
-        while (node.left != null) {
-            node = node.left;
+    TreeNode findMin(TreeNode node){
+        while(node.left!=null){
+            node=node.left;
         }
         return node;
     }
