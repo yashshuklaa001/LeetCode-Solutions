@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0112-path-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -500,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0089-gray-code](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0137-single-number-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0190-reverse-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
