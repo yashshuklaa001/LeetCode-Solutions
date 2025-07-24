@@ -378,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0669-trim-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Depth-First Search
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0669-trim-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0733-flood-fill](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [0975-range-sum-of-bst](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -439,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0669-trim-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Backtracking
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0669-trim-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0975-range-sum-of-bst](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
