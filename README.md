@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -402,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0207-course-schedule) |
+| [0226-invert-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0547-number-of-provinces](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
