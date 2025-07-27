@@ -33,13 +33,11 @@ public class Codec {
         if (nodeData.equals("null")) {
             return null;
         }
-        TreeNode node = new TreeNode(Integer.parseInt(nodeData)); // fix 1
-        node.left = deserializeHelper(queue);                     // fix 2
+        TreeNode node = new TreeNode(Integer.parseInt(nodeData));
+        node.left = deserializeHelper(queue);
         node.right = deserializeHelper(queue);
         return node;
     }
-
-    // Decodes your encoded data to tree.
     public TreeNode deserialize(String data) {
         String[] arr = data.split(",");
         Queue<String> queue = new LinkedList<>(Arrays.asList(arr));
