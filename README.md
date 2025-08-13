@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0137-single-number-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0113-path-sum-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0130-surrounded-regions](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0200-number-of-islands) |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0207-course-schedule) |
@@ -517,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -602,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0073-set-matrix-zeroes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0130-surrounded-regions](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0733-flood-fill) |
