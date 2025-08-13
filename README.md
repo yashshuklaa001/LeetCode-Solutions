@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0540-single-element-in-a-sorted-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0713-subarray-product-less-than-k](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0733-flood-fill) |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0669-trim-a-binary-search-tree) |
+| [0695-max-area-of-island](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 | [0975-range-sum-of-bst](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0975-range-sum-of-bst) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0547-number-of-provinces](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1035-cousins-in-binary-tree) |
@@ -523,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0547-number-of-provinces) |
+| [0695-max-area-of-island](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [2121-find-if-path-exists-in-graph](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2121-find-if-path-exists-in-graph) |
 ## Counting
 |  |
@@ -609,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0130-surrounded-regions](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0695-max-area-of-island](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0733-flood-fill) |
 | [0898-transpose-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
