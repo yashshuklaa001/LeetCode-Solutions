@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0152-maximum-product-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0162-find-peak-element) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0089-gray-code](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0089-gray-code) |
+| [0136-single-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0222-count-complete-tree-nodes) |
