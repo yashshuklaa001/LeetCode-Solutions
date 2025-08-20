@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0402-remove-k-digits](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0409-longest-palindrome) |
 | [0567-permutation-in-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
+| [0812-rotate-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1666-make-the-string-great](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 ## Array
@@ -700,4 +701,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
