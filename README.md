@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1690-maximum-length-of-subarray-with-positive-product](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1690-maximum-length-of-subarray-with-positive-product) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2737-row-with-maximum-ones](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2737-row-with-maximum-ones) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
@@ -310,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1646-kth-missing-positive-number) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2047-find-a-peak-element-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0898-transpose-matrix](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0898-transpose-matrix) |
 | [1036-rotting-oranges](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1036-rotting-oranges) |
 | [1677-matrix-diagonal-sum](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1677-matrix-diagonal-sum) |
+| [2047-find-a-peak-element-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2737-row-with-maximum-ones) |
 ## Linked List
 |  |
