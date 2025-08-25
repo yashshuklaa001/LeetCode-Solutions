@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Array
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1319-unique-number-of-occurrences](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1635-number-of-good-pairs](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3548-find-the-count-of-good-integers](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Sorting
 |  |
@@ -581,6 +583,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0229-majority-element-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1635-number-of-good-pairs](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Design
 |  |
 | ------- |
