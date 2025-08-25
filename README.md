@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0567-permutation-in-string) |
 | [0812-rotate-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 ## Array
 |  |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0735-asteroid-collision](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
+| [1078-remove-outermost-parentheses](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 ## Simulation
 |  |
