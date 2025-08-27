@@ -365,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1013-fibonacci-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
+| [2050-count-good-numbers](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 | [3548-find-the-count-of-good-integers](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3548-find-the-count-of-good-integers) |
 ## Recursion
 |  |
@@ -380,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0231-power-of-two](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [2050-count-good-numbers](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2050-count-good-numbers) |
 ## Memoization
 |  |
 | ------- |
