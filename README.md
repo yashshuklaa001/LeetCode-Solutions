@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1078-remove-outermost-parentheses](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Array
 |  |
 | ------- |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0047-permutations-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0047-permutations-ii) |
 | [0089-gray-code](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0113-path-sum-ii](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0113-path-sum-ii) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -618,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1054-complement-of-base-10-integer](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1054-complement-of-base-10-integer) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [3453-generate-binary-strings-without-adjacent-zeros](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/3453-generate-binary-strings-without-adjacent-zeros) |
 ## Queue
 |  |
 | ------- |
