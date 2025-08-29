@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1319-unique-number-of-occurrences](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1319-unique-number-of-occurrences) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1435-xor-queries-of-a-subarray) |
+| [1582-design-browser-history](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [1603-running-sum-of-1d-array](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1635-number-of-good-pairs](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1635-number-of-good-pairs) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0874-backspace-string-compare) |
 | [1078-remove-outermost-parentheses](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1078-remove-outermost-parentheses) |
+| [1582-design-browser-history](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [1666-make-the-string-great](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1666-make-the-string-great) |
 ## Simulation
 |  |
@@ -606,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0838-design-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0838-design-linked-list) |
 | [0860-design-circular-queue](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0860-design-circular-queue) |
 | [1337-design-skiplist](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1337-design-skiplist) |
+| [1582-design-browser-history](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -718,6 +721,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0908-middle-of-the-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0908-middle-of-the-linked-list) |
 | [1337-design-skiplist](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1337-design-skiplist) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1582-design-browser-history](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Hash Function
 |  |
@@ -740,6 +744,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0146-lru-cache](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+| [1582-design-browser-history](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 ## Graph
 |  |
 | ------- |
@@ -754,4 +759,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/0812-rotate-string) |
+## Data Stream
+|  |
+| ------- |
+| [1582-design-browser-history](https://github.com/yashshuklaa001/LeetCode-Solutions/tree/master/1582-design-browser-history) |
 <!---LeetCode Topics End-->
